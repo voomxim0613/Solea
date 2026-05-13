@@ -5,6 +5,7 @@ https://github.com/52chatai/52chatai.github.io.git
 https://github.com/5VNetwork/vx-core.git
 https://github.com/99nav/99nav.git
 https://github.com/99nav/99nav.github.io.git
+https://github.com/Alvin9999-newpac/Sing-Box-Plus.git
 https://github.com/Alvin9999-newpac/fanqiang.git
 https://github.com/Am-Delta/v2ray-to-json.git
 https://github.com/AvenCores/goida-vpn-site.git
@@ -16,6 +17,8 @@ https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs.git
 https://github.com/Everyday-VPN/Everyday-VPN.git
 https://github.com/FN-Rerechan02/scvps.git
 https://github.com/Fa-d/VPNSDK.git
+https://github.com/FreeFolksOn/abc-configs-free-vpn-proxy-list.git
+https://github.com/GFW4Fun/x-ui-pro.git
 https://github.com/Gozargah/Marzban.git
 https://github.com/Gozargah/Nabzram.git
 https://github.com/HamedAp/ShahanPanel.git
@@ -41,6 +44,7 @@ https://github.com/V2RAYCONFIGSPOOL/V2RAY_SUB.git
 https://github.com/VPNclient/VPNclient-app.git
 https://github.com/VPNclient/VPNclient-engine-flutter.git
 https://github.com/VPNclient/flutter_vpn_engine.git
+https://github.com/VPNclient/vpnclient.engine.git
 https://github.com/XIIIFOX/flutter_vless.git
 https://github.com/XTLS/Xray-core.git
 https://github.com/XrayR-project/XrayR.git
@@ -57,6 +61,7 @@ https://github.com/cirosantilli/china-dictatorship.git
 https://github.com/cirosantilli/china-dictatroship-7.git
 https://github.com/cnlangzi/proxyclient.git
 https://github.com/code3-dev/x2j.git
+https://github.com/crazypeace/v2ray_wss.git
 https://github.com/cutepookie/femboy.git
 https://github.com/cyberxsboy/Hiddify-freefq.git
 https://github.com/dead-man1/CF-Worker-Sub-Manager.git
