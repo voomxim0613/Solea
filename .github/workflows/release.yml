@@ -1,0 +1,81 @@
+name: Release
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    # 20 => 4, 17 => 1 */3 every 3 hour
+    - cron: "24 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write # required for uploading assets
+
+env:
+  RELEASE_BODY: "[runner](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }})"
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.14"
+
+      - name: Clone repos
+        run: python src/copy.py
+
+      - name: Shuffle outputs
+        run: bash src/shuffle.sh
+
+      - name: Generate timestamp
+        run: echo "RELEASE_TITLE=v$(TZ='Asia/Shanghai' date +'%Y.%m.%d-%H.%M.%S')" >> $GITHUB_ENV
+
+      - name: Release stable
+        uses: softprops/action-gh-release@v3
+        with:
+          tag_name: stable
+          name: ${{ env.RELEASE_TITLE }}
+          body: |
+            ${{ env.RELEASE_BODY }}
+
+            repos: ${{ env.SEP_LIST }}
+            count: r${{ env.CREPO_REMAIN }}, s${{ env.CREPO_SEARCH }}, f${{ env.CREPO_FILTERED }}
+
+            sep.zip: ${{ env.SEP_COUNT }}
+            mix.zip: ${{ env.MIX_COUNT }}
+            vnn.zip: ${{ env.V2RAYN_COUNT }}
+          working_directory: tmp
+          overwrite_files: true
+          files: |
+            sep.zip
+            mix.zip
+            vnn.zip
+
+      - name: Release new
+        uses: softprops/action-gh-release@v3
+        with:
+          tag_name: ${{ env.RELEASE_TITLE }}
+          name: ${{ env.RELEASE_TITLE }}
+          body: |
+            ${{ env.RELEASE_BODY }}
+
+            repos: ${{ env.SEP_LIST }}
+            count: r${{ env.CREPO_REMAIN }}, s${{ env.CREPO_SEARCH }}, f${{ env.CREPO_FILTERED }}
+
+            sep.zip: ${{ env.SEP_COUNT }}
+            mix.zip: ${{ env.MIX_COUNT }}
+            vnn.zip: ${{ env.V2RAYN_COUNT }}
+          working_directory: tmp
+          overwrite_files: true
+          files: |
+            sep.zip
+            mix.zip
+            vnn.zip
