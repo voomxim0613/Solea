@@ -8,6 +8,7 @@ https://github.com/99nav/99nav.github.io.git
 https://github.com/Alvin9999-newpac/Sing-Box-Plus.git
 https://github.com/Alvin9999-newpac/fanqiang.git
 https://github.com/Am-Delta/v2ray-to-json.git
+https://github.com/Anneal-Team/Anneal-App.git
 https://github.com/AvenCores/goida-vpn-site.git
 https://github.com/Cisse412/xray-proxy-insight-telegram.git
 https://github.com/CluvexStudio/ZedSecure.git
@@ -44,6 +45,7 @@ https://github.com/V2RAYCONFIGSPOOL/V2RAY_SUB.git
 https://github.com/VPNclient/VPNclient-app.git
 https://github.com/VPNclient/VPNclient-engine-flutter.git
 https://github.com/VPNclient/flutter_vpn_engine.git
+https://github.com/VPNclient/libh2.git
 https://github.com/VPNclient/vpnclient.engine.git
 https://github.com/XIIIFOX/flutter_vless.git
 https://github.com/XTLS/Xray-core.git
@@ -102,6 +104,7 @@ https://github.com/maomao533/jichangtizi-tuijian.git
 https://github.com/mehdirzfx/v2ray-sub.git
 https://github.com/meraws/MeraVPN.git
 https://github.com/miguel-b-p/NyxProxy.git
+https://github.com/mohammadghaffary/abc-configs-free-vpn-proxy-list.git
 https://github.com/motao123/x-ui.git
 https://github.com/negeek/x-ui-pro-doprax.git
 https://github.com/nichind/singbox2proxy.git
@@ -115,6 +118,8 @@ https://github.com/printfer/v2sing.git
 https://github.com/python-net-dev/network-test.git
 https://github.com/quyxishi/whitebox.git
 https://github.com/ripaojiedian/freenode.git
+https://github.com/rtwo2/FastNodes.git
+https://github.com/sepandhaghighi/v2kit.git
 https://github.com/seramo/v2ray-config-modifier.git
 https://github.com/sevcator/5ubscrpt10n.git
 https://github.com/shafreeck/Tunnet.git
@@ -126,6 +131,7 @@ https://github.com/swileran/v2ray-config-collector.git
 https://github.com/th1nk-er/Xray-script.git
 https://github.com/v2fly/v2ray-core.git
 https://github.com/v2rayA/v2rayA.git
+https://github.com/vatandev/v2rayNG-Pro.git
 https://github.com/vungocbaobao/v2ray-config-finder-tg-bot.git
 https://github.com/wenxig/dongtai-sub.git
 https://github.com/whoahaow/rjsxrd.git
