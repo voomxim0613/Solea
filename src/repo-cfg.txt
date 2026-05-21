@@ -15,11 +15,13 @@ https://github.com/CluvexStudio/ZedSecure.git
 https://github.com/DaveBugg/ProxyBox.git
 https://github.com/DiningFactory/panda-vpn-pro.git
 https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs.git
+https://github.com/Erfan-Times/BCT.git
 https://github.com/Everyday-VPN/Everyday-VPN.git
 https://github.com/FN-Rerechan02/scvps.git
 https://github.com/Fa-d/VPNSDK.git
 https://github.com/FreeFolksOn/abc-configs-free-vpn-proxy-list.git
 https://github.com/GFW4Fun/x-ui-pro.git
+https://github.com/Galaidy/BCT.git
 https://github.com/Gozargah/Marzban.git
 https://github.com/Gozargah/Nabzram.git
 https://github.com/HamedAp/ShahanPanel.git
@@ -129,6 +131,7 @@ https://github.com/sp0937/v2rayMiniConsole.git
 https://github.com/surgioproject/surgio.git
 https://github.com/swileran/v2ray-config-collector.git
 https://github.com/th1nk-er/Xray-script.git
+https://github.com/tpxcer/oui-panel.git
 https://github.com/v2fly/v2ray-core.git
 https://github.com/v2rayA/v2rayA.git
 https://github.com/vatandev/v2rayNG-Pro.git
