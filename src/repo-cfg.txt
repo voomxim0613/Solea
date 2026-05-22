@@ -73,6 +73,7 @@ https://github.com/dead-man1/V-Bridge-Worker.git
 https://github.com/dem000n/x-ui-pro.git
 https://github.com/denmrnngp-cloud/hiddify-steam-deck.git
 https://github.com/denxv/TGV2RayScraper.git
+https://github.com/ebrasha/free-v2ray-public-list.git
 https://github.com/fengguokeji/shadowrocket.git
 https://github.com/flclash-us/v2rayng-android-guide.git
 https://github.com/free18/v2ray.git
@@ -119,6 +120,8 @@ https://github.com/praiman99/AutoScriptVPN-AIO.git
 https://github.com/printfer/v2sing.git
 https://github.com/python-net-dev/network-test.git
 https://github.com/quyxishi/whitebox.git
+https://github.com/rialslachley579/V2rayNG-for-Android.git
+https://github.com/rialslachley579/v2rayn-for-pc-download.git
 https://github.com/ripaojiedian/freenode.git
 https://github.com/rtwo2/FastNodes.git
 https://github.com/sepandhaghighi/v2kit.git
