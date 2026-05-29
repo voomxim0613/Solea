@@ -36,10 +36,13 @@ https://github.com/LorenEteval/Furious.git
 https://github.com/MKultra6969/MK_XRAYchecker.git
 https://github.com/Mcloud136/v2node.git
 https://github.com/NakuTenshi/v2ray_config_collector.git
+https://github.com/RANGER-exe/CloudBreak.git
 https://github.com/RezaXAfrasyabi/stealth-proxy-vps-setup.git
 https://github.com/Ryan-PG/ry-v2ray-config-extractor.git
+https://github.com/SamNet-dev/cfray.git
 https://github.com/Shun234434334343/supercli.git
 https://github.com/Sibusiso6/proxy-list.git
+https://github.com/SulgX/ConfigGenerator.git
 https://github.com/Surfboardv2ray/Proxy-sorter.git
 https://github.com/Thirddegreegrocery830/xr.git
 https://github.com/UWU-TEAM/Neko-ray.git
@@ -52,6 +55,7 @@ https://github.com/VPNclient/vpnclient.engine.git
 https://github.com/XIIIFOX/flutter_vless.git
 https://github.com/XTLS/Xray-core.git
 https://github.com/XrayR-project/XrayR.git
+https://github.com/Yasin-marx/V2ray-Windows-Y.git
 https://github.com/YawStar/Dance-Box.git
 https://github.com/abdelrahman30x/TunnelBypass.git
 https://github.com/adisubagja/AutoScriptXray.git
@@ -73,6 +77,7 @@ https://github.com/dead-man1/V-Bridge-Worker.git
 https://github.com/dem000n/x-ui-pro.git
 https://github.com/denmrnngp-cloud/hiddify-steam-deck.git
 https://github.com/denxv/TGV2RayScraper.git
+https://github.com/dianbanjiu/subconverter.git
 https://github.com/ebrasha/free-v2ray-public-list.git
 https://github.com/fengguokeji/shadowrocket.git
 https://github.com/flclash-us/v2rayng-android-guide.git
@@ -106,6 +111,7 @@ https://github.com/maomao533/jichang-tizi-tuijian.git
 https://github.com/maomao533/jichangtizi-tuijian.git
 https://github.com/mehdirzfx/v2ray-sub.git
 https://github.com/meraws/MeraVPN.git
+https://github.com/mermeroo/V2RAY-CLASH-BASE64-Subscription.Links.git
 https://github.com/miguel-b-p/NyxProxy.git
 https://github.com/mohammadghaffary/abc-configs-free-vpn-proxy-list.git
 https://github.com/motao123/x-ui.git

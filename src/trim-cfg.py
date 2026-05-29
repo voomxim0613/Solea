@@ -28,13 +28,21 @@ def ParseLine(line):
     return None
 
 
+def AddDotGit(url):
+    url = url.strip()
+    if len(url) > 0 and not url.endswith(".git"):
+        return f"{url}.git\n"
+    return f"{url}\n"
+
+
 def LoadConfig(filename):
     r = set()
     with open(filename, 'r') as file:
         for line in file:
             s = ParseLine(line)
             if HasContent(s):
-                r.add(s)
+                g = AddDotGit(s)
+                r.add(g)
     return r
 
 
