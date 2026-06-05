@@ -98,6 +98,7 @@ https://github.com/hatinati2/ultimate-xray-tester.git
 https://github.com/hiddify/Hiddify-Manager.git
 https://github.com/hiddify/hiddify-app.git
 https://github.com/hotseo123/shida-jichang-tuijian.git
+https://github.com/hsernos/Txray.git
 https://github.com/huijingfei/Shadowrocket-Rules.git
 https://github.com/ircfspace/tconfig.git
 https://github.com/jibukeshi/proxy_share.git
@@ -109,6 +110,7 @@ https://github.com/klsdfernando/VoidTunnel.git
 https://github.com/kort0881/vpn-vless-configs-russia.git
 https://github.com/lerjtl/Testfree.git
 https://github.com/licheng527/Free-servers.git
+https://github.com/linuxhobby/xray-v2ray-install.git
 https://github.com/lxhao61/integrated-examples.git
 https://github.com/mRFWq7LwNPZjaVv5v6eo/cihna-dictattorshrip-8.git
 https://github.com/mack-a/v2ray-agent.git
@@ -128,6 +130,7 @@ https://github.com/nodesfree/nodesfree.git
 https://github.com/nodesfree/nodesfree.github.io.git
 https://github.com/parsico/HORiZON.git
 https://github.com/pesaregorg/v2ray_box.git
+https://github.com/popsiclelmlm/Hey.git
 https://github.com/praiman99/AutoScriptVPN-AIO.git
 https://github.com/printfer/v2sing.git
 https://github.com/python-net-dev/network-test.git
@@ -140,6 +143,7 @@ https://github.com/sepandhaghighi/v2kit.git
 https://github.com/seramo/v2ray-config-modifier.git
 https://github.com/sevcator/5ubscrpt10n.git
 https://github.com/shafreeck/Tunnet.git
+https://github.com/shenaba/2s-ui.git
 https://github.com/skka3134/Free-servers.git
 https://github.com/snakem982/proxypool.git
 https://github.com/sp0937/v2rayMiniConsole.git
