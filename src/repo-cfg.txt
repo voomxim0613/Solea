@@ -81,6 +81,7 @@ https://github.com/denmrnngp-cloud/hiddify-steam-deck.git
 https://github.com/denxv/TGV2RayScraper.git
 https://github.com/dianbanjiu/subconverter.git
 https://github.com/ebrasha/free-v2ray-public-list.git
+https://github.com/fandoghsheknfree/-2.git
 https://github.com/fengguokeji/shadowrocket.git
 https://github.com/flclash-us/airport-rec-9phfb1.git
 https://github.com/flclash-us/airport-rec-w89kg3.git
@@ -128,6 +129,7 @@ https://github.com/nichind/singbox2proxy.git
 https://github.com/ninjastrikers/nexus-nodes.git
 https://github.com/nodesfree/nodesfree.git
 https://github.com/nodesfree/nodesfree.github.io.git
+https://github.com/palazik/palazikVPN.git
 https://github.com/parsico/HORiZON.git
 https://github.com/pesaregorg/v2ray_box.git
 https://github.com/popsiclelmlm/Hey.git
