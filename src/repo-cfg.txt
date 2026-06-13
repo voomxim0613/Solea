@@ -1,5 +1,6 @@
 https://github.com/2dust/v2rayN.git
 https://github.com/2dust/v2rayNG.git
+https://github.com/411A/V2RayDAR.git
 https://github.com/4lph4shell/bobres-bot.git
 https://github.com/52chatai/52chatai.github.io.git
 https://github.com/5VNetwork/vx-core.git
@@ -29,6 +30,7 @@ https://github.com/HamedAp/ShahanPanel.git
 https://github.com/Hidden-Node/proxy-builder.git
 https://github.com/ImanSeyed/v2ray-uri2json.git
 https://github.com/Intermolecular-sirdar532/v2node.git
+https://github.com/John19187/The-40-Best-VPNs.git
 https://github.com/KOKosaaaa/NetGuard.git
 https://github.com/KnowSky404/SubMan.git
 https://github.com/Kxiandaoyan/NexusRoute.git
@@ -123,12 +125,14 @@ https://github.com/meraws/MeraVPN.git
 https://github.com/mermeroo/V2RAY-CLASH-BASE64-Subscription.Links.git
 https://github.com/miguel-b-p/NyxProxy.git
 https://github.com/mohammadghaffary/abc-configs-free-vpn-proxy-list.git
+https://github.com/mory524/my-v2ray-checker.git
 https://github.com/motao123/x-ui.git
 https://github.com/negeek/x-ui-pro-doprax.git
 https://github.com/nichind/singbox2proxy.git
 https://github.com/ninjastrikers/nexus-nodes.git
 https://github.com/nodesfree/nodesfree.git
 https://github.com/nodesfree/nodesfree.github.io.git
+https://github.com/oosmajid/AirProxy.git
 https://github.com/palazik/palazikVPN.git
 https://github.com/parsico/HORiZON.git
 https://github.com/pesaregorg/v2ray_box.git
@@ -151,6 +155,7 @@ https://github.com/snakem982/proxypool.git
 https://github.com/sp0937/v2rayMiniConsole.git
 https://github.com/surgioproject/surgio.git
 https://github.com/swileran/v2ray-config-collector.git
+https://github.com/tayeela/v2ray-sub-decoder.git
 https://github.com/th1nk-er/Xray-script.git
 https://github.com/tpxcer/oui-panel.git
 https://github.com/v2fly/v2ray-core.git
