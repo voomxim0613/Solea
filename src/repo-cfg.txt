@@ -49,7 +49,9 @@ https://github.com/MParvin/V2Check.git
 https://github.com/MS33834/freenode.git
 https://github.com/Mcloud136/v2node.git
 https://github.com/NOVA-X-Code/Labokingfreesurf-V2ray-Docker.git
+https://github.com/NakuTenshi/v2forge.git
 https://github.com/NakuTenshi/v2ray_config_collector.git
+https://github.com/NodeOOF/V2TOClash.git
 https://github.com/RANGER-exe/CloudBreak.git
 https://github.com/RezaXAfrasyabi/stealth-proxy-vps-setup.git
 https://github.com/Ryan-PG/ry-v2ray-config-extractor.git
@@ -196,6 +198,7 @@ https://github.com/v2fly/v2ray-core.git
 https://github.com/v2rayA/v2rayA.git
 https://github.com/vatandev/v2rayNG-Pro.git
 https://github.com/vungocbaobao/v2ray-config-finder-tg-bot.git
+https://github.com/wareash/v2ray-deploy.git
 https://github.com/weed33834/freenode.git
 https://github.com/wenxig/dongtai-sub.git
 https://github.com/whoahaow/rjsxrd.git
