@@ -18,6 +18,7 @@ https://github.com/CluvexStudio/ZedSecure.git
 https://github.com/DaveBugg/ProxyBox.git
 https://github.com/Delta-Kronecker/V2ray-Config.git
 https://github.com/DiningFactory/panda-vpn-pro.git
+https://github.com/DisruptorProxy/Core.git
 https://github.com/DukeMehdi/FreeList-V2ray-Configs.git
 https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs.git
 https://github.com/Erfan-Times/BCT.git
@@ -82,9 +83,11 @@ https://github.com/adisubagja/AutoScriptXray.git
 https://github.com/aghayesaeedi/AS-scanner.git
 https://github.com/ajezpathan-source/Ajez-pathan.git
 https://github.com/amir-zr/flutter_v2ray_client.git
+https://github.com/askarniroomand/XRayMOD.git
 https://github.com/awesome-vpn/awesome-vpn.git
 https://github.com/bannedbook/v2ray.vpn.git
 https://github.com/bestruirui/MiniSubConvert.git
+https://github.com/bitscoid/BITS-Cloudflare-VPN.git
 https://github.com/bitscoid/bits-v2ray.git
 https://github.com/by-sonic/HyPanel.git
 https://github.com/cfal/shoes.git
@@ -95,6 +98,7 @@ https://github.com/code3-dev/x2j.git
 https://github.com/crazypeace/v2ray_wss.git
 https://github.com/cutepookie/femboy.git
 https://github.com/cyberxsboy/Hiddify-freefq.git
+https://github.com/danial2026/v2ray_client.git
 https://github.com/dead-man1/CF-Worker-Sub-Manager.git
 https://github.com/dead-man1/V-Bridge-Worker.git
 https://github.com/dem000n/x-ui-pro.git
@@ -111,6 +115,7 @@ https://github.com/flclash-us/airport-rec-w89kg3.git
 https://github.com/flclash-us/v2rayng-android-guide.git
 https://github.com/flclash-us/vps-guide-7hvfs1.git
 https://github.com/flclash-us/vps-guide-bnyjwj.git
+https://github.com/flyzstu/xhttp-box.git
 https://github.com/free18/v2ray.git
 https://github.com/fscarmen/ArgoX.git
 https://github.com/fscarmen/sba.git
@@ -127,6 +132,7 @@ https://github.com/huijingfei/Shadowrocket-Rules.git
 https://github.com/ircfspace/tconfig.git
 https://github.com/ixiflower/polybot-tg.git
 https://github.com/jafarm83/ConfigV2Ray.git
+https://github.com/jcltravels/RocketProxy.git
 https://github.com/jibukeshi/proxy_share.git
 https://github.com/jichangtuijian-cheap/cheap-airports.git
 https://github.com/justbehrad/v2ray-tester.git
@@ -157,6 +163,7 @@ https://github.com/motao123/x-ui.git
 https://github.com/myikuns/jichangtz-tuijian.git
 https://github.com/myikuns/vpnproxy.git
 https://github.com/negeek/x-ui-pro-doprax.git
+https://github.com/nestthub/v2hub-api.git
 https://github.com/nichind/singbox2proxy.git
 https://github.com/ninjastrikers/nexus-nodes.git
 https://github.com/nodesfree/nodesfree.git
