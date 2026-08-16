@@ -13,6 +13,7 @@ https://github.com/Am-Delta/v2ray-to-json.git
 https://github.com/Anneal-Team/Anneal-App.git
 https://github.com/Argh94/V2RayAutoConfig.git
 https://github.com/AvenCores/goida-vpn-site.git
+https://github.com/Banten-IT-Solutions/BITS-Cloudflare-VPN.git
 https://github.com/Cisse412/xray-proxy-insight-telegram.git
 https://github.com/CluvexStudio/ZedSecure.git
 https://github.com/DaveBugg/ProxyBox.git
@@ -52,6 +53,7 @@ https://github.com/Mcloud136/v2node.git
 https://github.com/NOVA-X-Code/Labokingfreesurf-V2ray-Docker.git
 https://github.com/NakuTenshi/v2forge.git
 https://github.com/NakuTenshi/v2ray_config_collector.git
+https://github.com/NeuralNode-Dev/neuralnode-dev.github.io.git
 https://github.com/NodeOOF/V2TOClash.git
 https://github.com/RANGER-exe/CloudBreak.git
 https://github.com/RezaXAfrasyabi/stealth-proxy-vps-setup.git
@@ -82,6 +84,7 @@ https://github.com/abdelrahman30x/TunnelBypass.git
 https://github.com/adisubagja/AutoScriptXray.git
 https://github.com/aghayesaeedi/AS-scanner.git
 https://github.com/ajezpathan-source/Ajez-pathan.git
+https://github.com/aleksandr-miheichev/v2rayN-oldos.git
 https://github.com/amir-zr/flutter_v2ray_client.git
 https://github.com/askarniroomand/XRayMOD.git
 https://github.com/awesome-vpn/awesome-vpn.git
@@ -157,6 +160,7 @@ https://github.com/mehdirzfx/v2ray-sub.git
 https://github.com/meraws/MeraVPN.git
 https://github.com/mermeroo/V2RAY-CLASH-BASE64-Subscription.Links.git
 https://github.com/miguel-b-p/NyxProxy.git
+https://github.com/miwuyouth/Chainy.git
 https://github.com/mohammadghaffary/abc-configs-free-vpn-proxy-list.git
 https://github.com/mory524/my-v2ray-checker.git
 https://github.com/motao123/x-ui.git
@@ -201,6 +205,7 @@ https://github.com/tayeela/v2ray-sub-decoder.git
 https://github.com/th1nk-er/Xray-script.git
 https://github.com/tomoOvO/v2ray-reality-practice.git
 https://github.com/tpxcer/oui-panel.git
+https://github.com/twbworld/proxy.git
 https://github.com/v2fly/v2ray-core.git
 https://github.com/v2rayA/v2rayA.git
 https://github.com/vatandev/v2rayNG-Pro.git
@@ -208,6 +213,7 @@ https://github.com/vungocbaobao/v2ray-config-finder-tg-bot.git
 https://github.com/wareash/v2ray-deploy.git
 https://github.com/weed33834/freenode.git
 https://github.com/wenxig/dongtai-sub.git
+https://github.com/wenxig/free-nodes-sub.git
 https://github.com/whoahaow/rjsxrd.git
 https://github.com/wizwizdev/wizwizxui-timebot.git
 https://github.com/wmm-x/marz-x.git
